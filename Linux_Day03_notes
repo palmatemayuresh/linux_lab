@@ -1,0 +1,19 @@
+# Day 03 -Linux Practice
+
+**Date:02-09-2026**  
+
+**What I learned today:**
+- pwd-used to know where you are inside the terminal
+- cd to enter a folder  eg- cd Downloads 
+- ls to list down the file in a folder
+- (>)redirect a output into a file
+- (>>)redirect a output into a file without rewrite the older one
+
+**Code / Concepts practiced:**
+- cd,mkdir,ls,pwd
+
+**Mistakes I made / Things I found difficult:**
+- overall everything was correct and nothing was wrong
+
+**What I will practice next:**
+- making new files and adding more files and data into them
