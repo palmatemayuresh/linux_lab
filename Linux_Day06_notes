@@ -1,1 +1,22 @@
+# Day 06 - Linux Practice
 
+**Date: 23-09-2026**
+
+## What I learned today:
+- Learned how to-
+  rename files using `mv`.
+  move files from one folder to another.
+  that `.` means the current folder and `..` means the folder beforethe current folder.
+- Learned how to delete empty folders using `rmdir`.
+
+## Commands I practiced:
+- 'mv' 'rm' 'mv' 'mkdir' 'rmdir' 'cd' 'ls'
+
+## What I practiced:
+- made new files and folder and then did renaming moving and deleteing
+
+
+
+## What I will practice next:
+Continue with more Linux commands and start using them in situations related to cybersecurity.
+(next ones gonna be a big one)
